@@ -6,7 +6,7 @@ Interpretable broad learning Rayleigh wave inversion framework
 This code package implements the method proposed in the paper:
 
 > **"Interpretable Rayleigh Wave Inversion Framework and Its Practical Implications"**  
-> *Submitted to Computers & Geosciences*
+> *Submitted to Journal of Applied Geophysics*
 > Authors: Yuanyuan Zhou, Xiao-Hui Yang, Peng Han*, Katsumi Hattori*, Ruidong Li, Bingbing Han, Wuhu Zhang, Xiaofei Chen
 
 The package provides a complete workflow for multi-mode Rayleigh wave dispersion inversion using a Broad Learning network, with frequency-point importance quantification for interpretability.
@@ -57,4 +57,4 @@ Each variant consists of a regression wrapper and a training subfunction:
 
 If you use this code in your research, please cite the associated paper:
 
-> "Yuanyuan Zhou, Xiao-Hui Yang, Peng Han*, Katsumi Hattori*, Ruidong Li, Bingbing Han, Wuhu Zhang, Xiaofei Chen. Interpretable Rayleigh Wave Inversion Framework and Its Practical Implications. Submitted to Computers & Geosciences"
+> "Yuanyuan Zhou, Xiao-Hui Yang, Peng Han*, Katsumi Hattori*, Ruidong Li, Bingbing Han, Wuhu Zhang, Xiaofei Chen. Interpretable Rayleigh Wave Inversion Framework and Its Practical Implications. Submitted to Journal of Applied Geophysics"
