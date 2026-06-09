@@ -4,7 +4,7 @@
 % Open research: The inversion program is hosted on the author's
 %    GitHub repository (https://github.com/geo-yyZhou/Interpretable-BL-RWI)
 %
-% Paper status: submitted to Computers & Geosciences 
+% Paper status: Submitted to Journal of Applied Geophysics
 %
 % Authors: Yuanyuan Zhou, Xiao-Hui Yang, Peng Han, Katsumi Hattori, 
 %                       Ruidong Li, Bingbing Han, Wuhu Zhang, Xiaofei Chen.
